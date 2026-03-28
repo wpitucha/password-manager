@@ -26,7 +26,7 @@ jesli nic nie zwróci, instalujemy pakiety (linux):
 - apt install nodejs
 - apt install npm
 
-- Wejdź do katalogu projektu
+### Wejdź do katalogu projektu
 
 cd password-manager/backend
 
@@ -38,7 +38,7 @@ npm install express
 
 node src/app.js
 
-Sprawdzić czy działa w przeglądarce:
+Sprawdzić, czy działa w przeglądarce:
 
 http://localhost:3000
 
