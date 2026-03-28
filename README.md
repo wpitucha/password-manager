@@ -14,7 +14,7 @@ Projekt grupowy – menedżer haseł z analizą siły haseł i wykrywaniem wycie
 
 ## Jak uruchomić:
 
-- Na początek zainstalować w systmie, node, npm, express /jeśli nie ma/
+### Na początek zainstalować w systmie, node, npm, express /jeśli nie ma/
 
 Sprawdzenie instalacji:
 
@@ -34,11 +34,11 @@ cd password-manager/backend
 
 npm install express
 
-- Uruchomienie backend'u:
+### Uruchomienie backend'u:
 
 node src/app.js
 
-Sprawdzić, czy działa w przeglądarce:
+### Sprawdzić, czy działa w przeglądarce:
 
 http://localhost:3000
 
