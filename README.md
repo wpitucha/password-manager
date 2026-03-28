@@ -18,13 +18,13 @@ Projekt grupowy – menedżer haseł z analizą siły haseł i wykrywaniem wycie
 
 Sprawdzenie instalacji:
 
-node -v
-npm -v
+- node -v
+- npm -v
 
 jesli nic nie zwróci, instalujemy pakiety (linux):
 
-apt install nodejs
-apt install npm
+- apt install nodejs
+- apt install npm
 
 - Wejdź do katalogu projektu
 
