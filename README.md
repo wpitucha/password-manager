@@ -11,3 +11,5 @@ Projekt grupowy – menedżer haseł z analizą siły haseł i wykrywaniem wycie
 - Node.js (backend)
 - React (frontend)
 - MongoDB / SQLite
+
+## Jak uruchomić:
