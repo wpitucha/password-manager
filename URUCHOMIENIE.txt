@@ -1,0 +1,22 @@
+JAK URUCHOMIC PROJEKT
+
+1. Rozpakuj paczke ZIP.
+2. Wejdz do folderu:
+   password-manager
+3. Otworz Git Bash w tym folderze.
+4. Wpisz:
+
+   python -m venv .venv
+   source .venv/Scripts/activate
+   python -m pip install --upgrade pip
+   python -m pip install -r backend/requirements.txt
+   python -m uvicorn backend.app.main:app --reload
+
+5. Otworz w przegladarce:
+   http://127.0.0.1:8000
+
+Dokumentacja API:
+   http://127.0.0.1:8000/docs
+
+UWAGA:
+Nie wrzucaj folderu .venv na GitHub. Jest juz dodany do .gitignore.
